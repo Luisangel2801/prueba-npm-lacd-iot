@@ -1,0 +1,20 @@
+{
+  "name": "prueba-npm-lacd-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisangel2801/prueba-npm-lacd-iot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisangel2801/prueba-npm-lacd-iot/issues"
+  },
+  "homepage": "https://github.com/Luisangel2801/prueba-npm-lacd-iot#readme"
+}
